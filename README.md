@@ -1,6 +1,8 @@
 # EmailSender
 A basic .NET5 Windows Forms application for testing purposes.
 
+![Screenshot](https://user-images.githubusercontent.com/9526587/113730500-a04b0f80-9700-11eb-942a-1c51ebeb90bb.png)
+
 Email Sender is using `System.Net.Mail` class.
 
 The default settings are configured for Gmail.
